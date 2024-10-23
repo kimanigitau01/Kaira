@@ -26,7 +26,7 @@ Kaira is dedicated to providing an exceptional shopping experience. We believe t
 
 ## Getting Started
 
-To get started with Kaira, simply visit our website at [Kaira.com](#) and browse through our collections. 
+To get started with Kaira, simply visit our website at [Kaira](https://kimanigitau01.github.io/Kaira/) and browse through our collections. 
 
 ### Prerequisites
 
